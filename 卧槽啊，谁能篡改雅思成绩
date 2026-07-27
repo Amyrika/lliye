@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>卧槽啊，谁能篡改雅思成绩 - 四叶草论坛</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:"SimSun","宋体",serif; background:#e9edf2; color:#222; font-size:14px; }
+  .topbar { background:#3a5a8c; color:#fff; font-size:12px; padding:4px 12px; }
+  .topbar a { color:#dce6f5; text-decoration:none; margin-left:10px;}
+  .crumb { background:#dce6f5; padding:6px 20px; font-size:12px; color:#555; border-bottom:1px solid #b9c9e0;}
+  .crumb a { color:#3a5a8c; text-decoration:none;}
+  .container { max-width:900px; margin:14px auto; padding:0 10px; }
+  h1.title { font-size:18px; color:#2a4d8f; padding:10px 4px; }
+  .post {
+    background:#fff;
+    border:1px solid #c7d3e3;
+    margin-bottom:12px;
+    display:flex;
+  }
+  .userinfo {
+    width:130px;
+    background:#f5f8fc;
+    border-right:1px solid #e3e8ef;
+    padding:14px 10px;
+    text-align:center;
+    font-size:12px;
+    color:#666;
+  }
+  .userinfo .name { color:#2a4d8f; font-weight:bold; margin-bottom:6px; }
+  .userinfo .avatar {
+    width:60px; height:60px; background:#dce6f5; margin:0 auto 8px;
+    border:1px solid #c7d3e3;
+  }
+  .content { flex:1; padding:14px 16px; }
+  .floor-meta { color:#999; font-size:11px; margin-bottom:10px; border-bottom:1px dashed #eee; padding-bottom:6px;}
+  .body-text { line-height:1.9; font-size:13.5px; }
+  .footer { text-align:center; color:#999; font-size:11px; margin:30px 0 10px; }
+</style>
+</head>
+<body>
+
+  <div class="topbar">四叶草论坛 <a href="#">登录</a><a href="#">注册</a></div>
+  <div class="crumb"><a href="index.html">首页</a> &gt; 综合讨论区 &gt; 正文</div>
+
+  <div class="container">
+    <h1 class="title">卧槽啊，谁能篡改雅思成绩？</h1>
+
+    <!-- 1楼：原帖 -->
+    <div class="post">
+      <div class="userinfo">
+        <div class="avatar"></div>
+        <div class="name">林依然1988</div>
+        <div>Lv.3 常驻居民</div>
+        <div>注册于 2011</div>
+      </div>
+      <div class="content">
+        <div class="floor-meta">发表于 3天前 · 1楼</div>
+        <div class="body-text">
+          最近收拾老房子，翻出来一张小学时候的照片，发现了我跟小时候玩得很好的一个女孩的合照！（右边是她）
+          小时候我跟她玩的最好了。可惜后来我搬家了，也没有联系方式。具体名字记不清了，只记得名字里有个柚字，还记得她很喜欢画画。
+          这么多年了，也不知道她现在过得怎么样，斗胆发个帖，看有没有认识的朋友能帮忙问问消息。谢谢大家。
+          <br><br>
+          <img src="childhood-photo.png" alt="小时候的合照" style="max-width:100%; border:1px solid #ccc; padding:4px; background:#fff;">
+        </div>
+      </div>
+    </div>
+
+    <!-- 2楼：路人 -->
+    <div class="post">
+      <div class="userinfo">
+        <div class="avatar"></div>
+        <div class="name">酱香饼是最好吃的</div>
+        <div>Lv.8 大佬</div>
+        <div>注册于 2006</div>
+      </div>
+      <div class="content">
+        <div class="floor-meta">发表于 2天前 · 3楼</div>
+        <div class="body-text">
+          srds楼主和这个小女孩好萌啊，我也有这个粉色同款衣服啊啊啊啊
+        </div>
+      </div>
+    </div>
+
+     <!-- 3楼：路人 -->
+    <div class="post">
+      <div class="userinfo">
+        <div class="avatar"></div>
+        <div class="name">无与伦比赵大哥</div>
+        <div>Lv.8 大佬</div>
+        <div>注册于 2006</div>
+      </div>
+      <div class="content">
+        <div class="floor-meta">发表于 2天前 · 4楼</div>
+        <div class="body-text">
+          希望楼主找到昔日的小伙伴吧！我的青梅就是小时候被别人拐走了再也找不到了。。。
+        </div>
+      </div>
+    </div>
+
+       <!-- 4楼：同学出现 -->
+    <div class="post">
+      <div class="userinfo">
+        <div class="avatar"></div>
+        <div class="name">灰白猫</div>
+        <div>Lv.2 新人</div>
+        <div>注册于 2023</div>
+      </div>
+      <div class="content">
+        <div class="floor-meta">发表于 2天前 · 2楼</div>
+        <div class="body-text">
+          楼主说的应该是陈……吧？我跟她初中同班过两年，毕业之后就没什么联系了。
+          不过我记得她自己好像也在这个论坛上发过东西，用的是"阿柚_"这个ID，你可以去搜搜看，也许她还会上来看。
+        </div>
+      </div>
+    </div>
+
+       <!-- 5楼：路人 -->
+    <div class="post">
+      <div class="userinfo">
+        <div class="avatar"></div>
+        <div class="name">元宝yourmyproud</div>
+        <div>Lv.3 新人</div>
+        <div>注册于 2022</div>
+      </div>
+      <div class="content">
+        <div class="floor-meta">发表于 1天前 · 5楼</div>
+        <div class="body-text">
+          我感觉她也好像我的初中同学，但我不知道啊我只是这么一说。
+          我那个同学初中去学了美术中考好像是县里前几吧..？我记得应该是去了临海一中？
+        </div>
+      </div>
+    </div>
+   
+  <div class="footer">© 2015-2026 四叶草论坛 版权所有 &nbsp;|&nbsp; 浙ICP备16007890号-1 &nbsp;|&nbsp; 用户发言不代表本站立场</div>
+
+</body>
+</html>
